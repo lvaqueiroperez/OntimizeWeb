@@ -13,5 +13,61 @@
   "ERROR_SESSION_EXPIRED": "La sesión ha caducado",
   "ERROR_USER_REQUIRED": "Nombre de usuario incorrecto.",
   "ERROR_PASS_REQUIRED": "Contraseña incorrecta.",
-  "ERROR_USER_PASS_INCORRECT": "Usuario o contraseña incorrecta."
+  "ERROR_USER_PASS_INCORRECT": "Usuario o contraseña incorrecta.",
+
+  "CUSTOMERS": "Clientes",
+
+  "ID": "Id.",
+  "NAME": "Nombre",
+  "SURNAME": "Apellido",
+  "STARTDATE": "Fecha inicio",
+  "EMAIL": "Correo",
+  "PHOTO": "Fotografía",
+
+  "CUSTOMER_PERSONAL_INFORMATION": "Información personal",
+  "CUSTOMERID": "Id. cliente",
+  "PHONE": "Teléfono",
+  "CUSTOMERTYPEID": "Tipo cliente",
+  "ADDRESS": "Dirección",
+  "LONGITUDE": "Longitud",
+  "LATITUDE": "Latitud",
+  "COMMENTS": "Comentarios",
+
+  "EMPLOYEES": "Empleados",
+  "EMPLOYEEID": "Id. Empleado",
+  "EMPLOYEETYPEID": "Tipo de empleado",
+  "EMPLOYEENAME": "Nombre",
+  "EMPLOYEESURNAME": "Apellidos",
+  "EMPLOYEEADDRESS": "Dirección",
+  "EMPLOYEECOMMENTS": "Comentarios",
+  "EMPLOYEESTARTDATE": "Fecha de inicio",
+  "EMPLOYEEPHOTO": "Fotografía",
+  "EMPLOYEEEMAIL": "Correo",
+  "OFFICEID": "Oficina",
+  "EMPLOYEEPHONE": "Teléfono",
+  "EMPLOYEE_PERSONAL_INFORMATION": "Detalles empleado",
+
+  "BRANCHES": "Sucursales",
+
+  "ACCOUNTNUMBER": "Nº cuenta",
+
+  "ACCOUNTS": "Cuentas",
+  "ACCOUNTID": "Id.",
+  "ENTITYID": "Entidad",
+  "CDID": "DC",
+  "ANID": "Cuenta",
+  "ENDDATE": "Fecha fin",
+  "INTERESRATE": "% interés",
+  "ACCOUNTTYP": "Tipo de cuenta",
+
+  "INTERESRATE_MONTHLY": "% interés mensual",
+
+  "BRANCH_INFORMATION":"Información de la sucursal",
+  "CUSTOMERS_INFORMATION":"Clientes de la sucursal",
+  "BALANCE":"Balance",
+
+  "DATE_": "Fecha",
+  "CONCEPT": "Concepto",
+  "MOVEMENT": "Movimiento",
+  "MOVEMENTTYPEID": "Tipo movimiento"
 }
